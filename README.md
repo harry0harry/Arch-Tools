@@ -46,7 +46,7 @@ O script é dividido em dois módulos principais no menu:
 
 1. **Clone o repositório:**
    ```bash
-   git clone https://github.com/SEU_USUARIO/Arch-Tools.git
+   git clone https://github.com/harry0harry/Arch-Tools.git
    ```
 
 2. **Acesse o diretório:**
